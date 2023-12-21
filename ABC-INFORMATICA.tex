@@ -1,0 +1,82 @@
+% Documento principal
+\documentclass[10pt]{book}
+
+% Pacotes necessários
+\usepackage[landscape, top=5mm, left=10mm, right=10mm, bottom=0mm, paperwidth=118mm, paperheight=210mm]{geometry}  % Configuração da página
+
+\usepackage{fancyhdr}  % Para configuração de cabeçalhos e rodapés
+\usepackage{multicol}  % Para uso de múltiplas colunas
+\usepackage{enumitem}  % Para personalizar listas
+\usepackage{xcolor}    % Para uso de cores
+\usepackage{graphicx}  % Para manipulação de gráficos
+\usepackage{hyperref}  % Para links clicáveis
+\usepackage{csvsimple} % Para tabelas openCSV
+\usepackage{expl3}      % Para matemática avançada
+\usepackage{pgffor}     % Para funções de programação
+\usepackage{wasysym}    % Para símbolos especiais
+\usepackage[default,osfigures,scale=0.95]{opensans} % Para a fonte Open Sans
+
+% Configuração do estilo da página
+\pagestyle{fancy}
+\fancyhead[L]{\sffamily ABC da Inform\'{a}tica}
+\fancyfoot[C]{\sffamily \LaTeX}
+\fancyhead[R]{\sffamily Alexandre Aravecchia}
+\fancyfoot[R]{\sffamily \thepage}
+\renewcommand{\headrulewidth}{1pt}
+\renewcommand{\footrulewidth}{1pt}
+
+% Configuração de dimensões
+\setlength{\headsep}{5mm}
+\setlength{\headheight}{7.5mm}
+\setlength{\footskip}{-5mm}
+\setlength{\textheight}{92.5mm}
+\setlength{\topmargin}{-25mm}
+\setlength{\columnsep}{5mm}
+\setlength{\parskip}{1mm plus 5mm}
+
+% Definição de cores
+\definecolor{black}{rgb}{0,0,0}
+\definecolor{white}{rgb}{1,1,1}
+\definecolor{linkblue}{rgb}{0,0,0.6} % Cor azul para os links
+
+% Configuração do pacote hyperref para links
+\hypersetup{
+	colorlinks=true,
+	linkcolor=linkblue,
+	filecolor=linkblue,      
+	urlcolor=linkblue,
+}
+
+% Informações do título
+\title{
+	\vspace*{-5mm}
+	\resizebox{60mm}{12mm}{\textcolor{black}{ABC}}
+	\\
+	\resizebox{60mm}{6mm}{\textcolor{black}{\textbf{da Inform\'{a}tica}}}
+	\\
+	\resizebox{80mm}{5mm}{\textcolor{black}{Aulas Expositivas}}
+}
+\author{
+	\resizebox{60mm}{4mm}{\textcolor{black} Alexandre Aravecchia}
+}
+\date{\small \today}
+
+% Início do documento
+\begin{document}
+	
+	% Gera o título
+	\maketitle
+	
+	% Cria uma tabela de conteúdo em duas colunas
+	\begin{multicols}{2}
+		\tableofcontents
+	\end{multicols}
+	
+	% Adiciona a citação com link clicável
+	{\normalsize Fonte: \href{URL_DA_FONTE}{Nome da Fonte}}
+	
+	% Inclui o conteúdo dos capítulos a partir de um arquivo externo
+	\input{./TeX_files/CAPITULOS-COMPUTADOR.tex}
+	
+	% Fim do documento
+\end{document}

@@ -1,0 +1,72 @@
+%SHELL
+\input{./TeX_files/SHELL-CODE.tex}
+ 
+\begin{multicols}{2}
+\normalsize
+	
+Supondo que você sabe instalar um sistema operacional GNU de Kernel Linux, sugerimos utilizar uma distribuição baseada em Ubuntu, Ubuntu Studio,  ou, de preferência um a distro especializada em educação, como Linux Educacional ou Zorin.
+
+Distribuições que utilizam Desktops mais leves, como Xubuntu ou Lubuntu, são indicadas para computadores mais antigos, de forma a aproveitar melhor os recursos de memória e processamento.
+
+Escolhida a distribuição, a primeira coisa a fazer é, óbviamente, instalar o sistema operacional, criando um usuário \textit{professor}, com privilégios de \textit{sudoer} ou \textit{admin}.
+
+Feito isto, instalado o sistema \textit{default}, vamos trocar a senha de \textit{root}, para facilitar nosso trabalho.
+
+No computador central do Laboratório (servidor, escolha aquele que tiver mais poder de processamento e memória, é nele que você vai passar os próximos anos da sua vida):
+
+Acesse sua área de trabalho, com a senha de usuário administrador (criada durante a instalação), e abra o terminal, utilize o atalho Alt+F2. Na caixa que aparecer na tela, digite \textit{xterm}, e aperte Enter.
+
+A próxima janela é o terminal, não precisa ter medo dele! Na verdade, com o tempo, você vai passar a gostar muito dele!
+
+Digite no terminal:
+
+\begin{lstlisting}
+sudo passwd root
+\end{lstlisting}
+
+Digite a nova senha e aperte ENTER, 2 vezes, nesta ordem:
+
+\begin{itemize}
+	\item Digite a nova senha
+	\item Aperte Enter
+\item Digite a nova senha (de novo)
+\item Aperte Enter (de novo)
+\end{itemize}
+
+Repare que, ao digitar a senha, nenhum caractere é escrito no terminal. Isto serve para proteger a nova senha.
+
+Pronto. Agora você é ROOT, tem poderes supremos sobre a máquina.
+
+Portanto, daqui em diante, lembre-se sempre: com grandes poderes, grandes responsabilidades você terá!
+
+Por hora, vamos nos divertir com os novos super-poderes. Digite:
+
+\begin{lstlisting}
+su -
+\end{lstlisting}
+
+Aperte Enter, digite sua senha de \textit{root} e confirme, apertando ENTER.
+
+Ótimo, agora você tem controle total do servidor!
+
+Bem vindo, Padawan!
+
+O próximo passo é instalar todos os aplicativos didáticos que os alunos utilizarão, bem como todas as ferramentas administrativas e protocolos de rede. Este script deve ajudá-lo:
+
+\begin{lstlisting}
+apt update
+apt install openssh-server openssh-client apache tomcat9 arduino frozen-bubble debian-junior gcompriz mc synaptic libreoffice
+\end{lstlisting}
+
+Reinicie o servidor, afim de que todos os novos serviços e protocolos instalados sejam carregados corretamente.
+
+Repita esta operação em todos os computadores, de todos os alunos.
+
+Segue o link:
+\end{multicols}
+\begin{center}
+	\Huge	\href{https://github.com/aravecchia/Documentos}{https://github.com/aravecchia/Documentos}
+\end{center}
+\null\vfill\pagebreak
+
+

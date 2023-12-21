@@ -1,0 +1,64 @@
+\large
+\begin{multicols}{2}
+	A ideia do Código Viking é ser a base \LaTeX \space de trabalho para qualquer professor, tanto para organizar seu plano de trabalho, como para preparar suas aulas, escrever seus livros e artigos, ou desenvolver suas palestras, de forma rápida, fácil, com uma diagramação perfeita, digna de um bom professor.
+
+Assim, surgiu também a idéia do \textbf{Sistema Efestus}, que incorpora scripts Shell e Python ao sistema operacional, para disponibilizar o plano de aulas numa rede local e organizar o trabalho nos Laboratórios de Informática, em escolas públicas de todo o Brasil.
+
+Ja o \textbf{ABC da Informática} é um plano de aulas pessoal, meu, que incorporei a este documento, como exemplo do funcionamento do Código Viking, e para testar o Sistema Hefestus em sala de aula.
+
+Você pode utilizá-lo a vontade, para fins não comerciais, como ponto de partida para criar seu próprio plano de aulas ou gerenciar o Laboratório da sua escola.
+
+Sinta-se à vontade para enviar dúvidas ou sugestões para aravecchia@gmail.com.
+
+Copie, modifique (mantendo os direitos autorais), divulgue e compartilhe!
+
+\vfill\null
+\columnbreak
+
+\subsection[Preâmbulo]{Preâmbulo}
+
+\lstinputlisting[basicstyle=\ttfamily, style=LaTeXStyle, label=lst:LaTeXCode]{./HEFESTUS.tex}
+
+\vfill
+\columnbreak
+
+\subsection[Capítulo]{Capítulo}
+
+\lstinputlisting[style=LaTeXStyle, label=lst:LaTeXCode]{./CAPITULOS-HEFESTUS.tex}
+
+\subsection[Pacote Listings para códigos-fonte]{Pacote Listings para códigos-fonte}
+
+\begin{verbatim}
+	\lstinputlisting[style=LaTeXStyle, label=lst:ArduinoCode]
+	{./TeX-git/ARDUINO-CODE.tex}
+
+\lstinputlisting[style=LaTeXStyle, label=lst:ShellCode]
+{./TeX-git/SHELL-CODE.tex}
+
+\lstinputlisting[style=LaTeXStyle, label=lst:LaTeXCode]
+{./TeX-git/LATEX-CODE.tex}
+
+\lstinputlisting[style=LaTeXStyle, label=lst:LaTeXCode]
+{./TeX-git/PYTHON-CODE.tex}
+\end{verbatim}
+
+\subsection[Exemplos de códigos-fonte em pacote Listings]{Exemplos de códigos-fonte em pacote Listings}
+
+
+\lstinputlisting[style=ArduinoStyle, label=lst:ArduinoCode]
+{./TeX-git/Arduino-CODE.tex}
+
+\lstinputlisting[style=C, label=lst:CCode]
+{./TeX-git/C-CODE.tex}
+
+\lstinputlisting[style=LaTeXStyle, label=lst:LaTeXCode]
+{./TeX-git/LaTeX-CODE.tex}
+
+\lstinputlisting[style=PythonStyle, label=lst:PythonCode]
+{./TeX-git/Python-CODE.tex}
+
+\end{multicols}
+
+\vfill\null
+\pagebreak
+

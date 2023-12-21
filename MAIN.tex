@@ -1,0 +1,50 @@
+\documentclass[landscape]{article}
+
+
+\usepackage[utf8]{inputenc} % Permite o uso de caracteres acentuados
+\usepackage[T1]{fontenc} % Define a codificação da fonte
+\usepackage[brazilian]{babel} % Traduz alguns termos para o português brasileiro
+
+\usepackage{tikz}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{pagecolor}
+
+% Define as margens
+\usepackage[margin=1cm]{geometry}
+
+\geometry{paperwidth=14in,paperheight=9in}
+
+% Define a cor verde-oliva
+\definecolor{verde-oliva}{RGB}{140, 138, 62}
+
+% Define a cor de fundo da página
+\pagecolor{verde-oliva}
+
+\definecolor{azul-brasil}{RGB}{0, 85, 164}
+\color{white}
+\title{\Huge Exemplo de página web}
+	\Huge
+\begin{document}
+
+	\maketitle
+	
+	\vspace*{.15\textheight}
+	
+	\begin{center}
+		\begin{tikzpicture}[node distance=\dimexpr\marginparsep+\marginparwidth\relax, every node/.style={minimum width=3cm, minimum height=3cm, draw=black, fill=azul-brasil!100, inner sep=0.5cm, rounded corners=10pt, align=center, text=white, font=\Huge}]
+		\node at (-6,0) (button1) {\hyperref[https://www.google.com/]{1}};
+		
+		\node[right of=button1] (button2) {\hyperref[https://www.facebook.com/]{2}};
+		
+		\node[right of=button2] (button3) {\hyperref[https://www.twitter.com/]{3}};
+		
+		\node[right of=button3] (button4) {\hyperref[https://www.instagram.com/]{4}};
+		
+		\node[right of=button4] (button5) {\hyperref[https://www.youtube.com/]{5}};
+		\end{tikzpicture}
+
+		
+	\end{center}
+	
+\end{document}

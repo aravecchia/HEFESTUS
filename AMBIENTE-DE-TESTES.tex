@@ -1,0 +1,52 @@
+\documentclass{article}
+\usepackage{listings}
+\usepackage{xcolor}
+
+\definecolor{darkgray}{rgb}{0.25, 0.25, 0.25}
+
+\lstset{
+	language=C,
+	fillcolor=\color{white},
+	backgroundcolor=\color{white},   
+	basicstyle=\small,  
+	breakatwhitespace=false,         
+	breaklines=true,                 
+	captionpos=b,                   
+	commentstyle=\color{gray},    
+	deletekeywords={...},           
+	escapeinside={\%*}{*)},          
+	extendedchars=true,              
+	frame=single,                 
+	keepspaces=true,                 
+	keywordstyle=\bfseries\color{orange},       
+	morekeywords={*,...},            
+	numbers=left,                    
+	numbersep=2mm,                   
+	numberstyle=\footnotesize\color{darkgray}, 
+	rulecolor=\color{black},         
+	rulesepcolor=\color{black},
+	showspaces=false,                
+	showstringspaces=false,          
+	showtabs=false,                  
+	stepnumber=1,                    
+	stringstyle=\color{orange},    
+	tabsize=3,                       
+	title=\lstname,
+	emphstyle=\bfseries\color{blue},%  estilo para emph={}
+	framexleftmargin=0mm,
+}
+
+\begin{document}
+	
+	\begin{lstlisting}[caption=Arduino Test, label=lst:ArduinoTest]
+		void setup() {
+			Serial.begin(9600);
+		}
+		
+		void loop() {
+			Serial.println("Hello, Arduino!");
+			delay(1000);
+		}
+	\end{lstlisting}
+	
+\end{document}

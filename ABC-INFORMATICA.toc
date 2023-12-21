@@ -1,0 +1,100 @@
+\contentsline {chapter}{\numberline {1}\large Apresentação}{7}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Por quê aprender computação?}{10}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Mas e o curso que eu fiz?}{11}{section.1.2}%
+\contentsline {section}{\numberline {1.3}E o quê este curso tem de diferente?}{12}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Como a computação pode me ajudar?}{13}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Preciso pagar alguma coisa?}{14}{section.1.5}%
+\contentsline {chapter}{\numberline {2}\large O computador}{15}{chapter.2}%
+\contentsline {section}{\numberline {2.1}O que é um computador}{15}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Quem inventou o computador}{24}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Senta que lá vem História!}{25}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}O fogo}{26}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}O osso de Ishangô}{27}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}O chefe da tribo}{29}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}O problema das cabras}{30}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Tabuletas de argila}{31}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}O Código de Hamurabi}{40}{subsection.2.3.6}%
+\contentsline {subsection}{\numberline {2.3.7}Ábaco}{43}{subsection.2.3.7}%
+\contentsline {subsection}{\numberline {2.3.8}Velas para contar o tempo}{44}{subsection.2.3.8}%
+\contentsline {subsection}{\numberline {2.3.9}Tipos móveis}{50}{subsection.2.3.9}%
+\contentsline {subsection}{\numberline {2.3.10}Pascaline}{52}{subsection.2.3.10}%
+\contentsline {subsection}{\numberline {2.3.11}Tear}{53}{subsection.2.3.11}%
+\contentsline {subsection}{\numberline {2.3.12}Spinning Jenny}{56}{subsection.2.3.12}%
+\contentsline {subsection}{\numberline {2.3.13}Máquina a vapor}{59}{subsection.2.3.13}%
+\contentsline {subsection}{\numberline {2.3.14}Tear a vapor}{61}{subsection.2.3.14}%
+\contentsline {subsection}{\numberline {2.3.15}Tear de Jaccqard}{62}{subsection.2.3.15}%
+\contentsline {subsection}{\numberline {2.3.16}Máquina Diferencial}{64}{subsection.2.3.16}%
+\contentsline {subsection}{\numberline {2.3.17}Gottfried Leibniz}{65}{subsection.2.3.17}%
+\contentsline {subsection}{\numberline {2.3.18}George Boole}{74}{subsection.2.3.18}%
+\contentsline {subsection}{\numberline {2.3.19}Telégrafo}{79}{subsection.2.3.19}%
+\contentsline {subsection}{\numberline {2.3.20}Hermman Hollerith}{80}{subsection.2.3.20}%
+\contentsline {subsection}{\numberline {2.3.21}Relay}{81}{subsection.2.3.21}%
+\contentsline {subsection}{\numberline {2.3.22}TELEX}{82}{subsection.2.3.22}%
+\contentsline {subsection}{\numberline {2.3.23}Válvula}{83}{subsection.2.3.23}%
+\contentsline {subsection}{\numberline {2.3.24}Conrad Zuse}{84}{subsection.2.3.24}%
+\contentsline {subsection}{\numberline {2.3.25}A máquina Enigma}{85}{subsection.2.3.25}%
+\contentsline {subsection}{\numberline {2.3.26}Alan Turing}{86}{subsection.2.3.26}%
+\contentsline {subsection}{\numberline {2.3.27}ENIAC}{88}{subsection.2.3.27}%
+\contentsline {subsection}{\numberline {2.3.28}EDVAC}{89}{subsection.2.3.28}%
+\contentsline {subsection}{\numberline {2.3.29}Tansistor}{90}{subsection.2.3.29}%
+\contentsline {subsection}{\numberline {2.3.30}Mainframes}{91}{subsection.2.3.30}%
+\contentsline {subsection}{\numberline {2.3.31}A linguagem C}{92}{subsection.2.3.31}%
+\contentsline {subsection}{\numberline {2.3.32}UNIX}{93}{subsection.2.3.32}%
+\contentsline {subsection}{\numberline {2.3.33}ARPANET}{94}{subsection.2.3.33}%
+\contentsline {subsection}{\numberline {2.3.34}XEROX}{95}{subsection.2.3.34}%
+\contentsline {subsection}{\numberline {2.3.35}Video Game}{96}{subsection.2.3.35}%
+\contentsline {subsection}{\numberline {2.3.36}IBM PC-XT}{100}{subsection.2.3.36}%
+\contentsline {subsection}{\numberline {2.3.37}MS-DOS}{101}{subsection.2.3.37}%
+\contentsline {subsection}{\numberline {2.3.38}Apple}{108}{subsection.2.3.38}%
+\contentsline {subsection}{\numberline {2.3.39}Micro\$soft Windows}{111}{subsection.2.3.39}%
+\contentsline {subsection}{\numberline {2.3.40}Richard Mathew Stallman}{112}{subsection.2.3.40}%
+\contentsline {subsection}{\numberline {2.3.41}Linus Torlvald}{113}{subsection.2.3.41}%
+\contentsline {subsection}{\numberline {2.3.42}O Iphone}{114}{subsection.2.3.42}%
+\contentsline {subsection}{\numberline {2.3.43}Red Hat}{115}{subsection.2.3.43}%
+\contentsline {subsection}{\numberline {2.3.44}Google}{116}{subsection.2.3.44}%
+\contentsline {subsection}{\numberline {2.3.45}Android}{117}{subsection.2.3.45}%
+\contentsline {subsection}{\numberline {2.3.46}Arduino}{118}{subsection.2.3.46}%
+\contentsline {subsection}{\numberline {2.3.47}Impressora 3D}{119}{subsection.2.3.47}%
+\contentsline {subsection}{\numberline {2.3.48}Robótica}{120}{subsection.2.3.48}%
+\contentsline {subsection}{\numberline {2.3.49}Inteligência Artificial}{121}{subsection.2.3.49}%
+\contentsline {chapter}{\numberline {3}Como funciona o computador}{123}{chapter.3}%
+\contentsline {section}{\numberline {3.1}O computador por dentro}{123}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Software e Hardware}{124}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Entrada, processamento e saída}{125}{section.3.3}%
+\contentsline {section}{\numberline {3.4}O que é um programa}{126}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Bits e Bytes}{127}{section.3.5}%
+\contentsline {section}{\numberline {3.6}O Código ASCII}{130}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Tudo é arquivo}{131}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Estrutura de disco e partições}{132}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}I am Root}{133}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.2}Árvore Windows}{134}{subsection.3.8.2}%
+\contentsline {subsection}{\numberline {3.8.3}Árvore Linux}{135}{subsection.3.8.3}%
+\contentsline {subsection}{\numberline {3.8.4}Árvore Android}{136}{subsection.3.8.4}%
+\contentsline {section}{\numberline {3.9}Sistemas Operacionais}{137}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}No princípio eram os relays}{138}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.2}...e fez-se o UNIX}{139}{subsection.3.9.2}%
+\contentsline {subsection}{\numberline {3.9.3}MS-X / MS-DOX}{140}{subsection.3.9.3}%
+\contentsline {subsection}{\numberline {3.9.4}MacOS-X}{141}{subsection.3.9.4}%
+\contentsline {subsection}{\numberline {3.9.5}Micro\$oft Windows}{142}{subsection.3.9.5}%
+\contentsline {subsection}{\numberline {3.9.6}MiniX}{143}{subsection.3.9.6}%
+\contentsline {subsection}{\numberline {3.9.7}GNU}{143}{subsection.3.9.7}%
+\contentsline {subsection}{\numberline {3.9.8}LinuX}{144}{subsection.3.9.8}%
+\contentsline {subsection}{\numberline {3.9.9}Android}{145}{subsection.3.9.9}%
+\contentsline {subsection}{\numberline {3.9.10}GNU de Kernel Linux}{146}{subsection.3.9.10}%
+\contentsline {chapter}{\numberline {4}O problema das Licenças}{147}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Códigos}{148}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Código-fonte}{148}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Código-máquina}{149}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Licença Proprietária}{150}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Licença Livre}{151}{subsection.4.1.4}%
+\contentsline {subsubsection}{As 4 Liberdades Fundamentais do Software Livre}{152}{section*.2}%
+\contentsline {chapter}{\numberline {5}\large O Sistema Operacional}{153}{chapter.5}%
+\contentsline {section}{\numberline {5.1}\large O UNIX}{154}{section.5.1}%
+\contentsline {section}{\numberline {5.2}M-DOS}{154}{section.5.2}%
+\contentsline {section}{\numberline {5.3}MAC}{154}{section.5.3}%
+\contentsline {section}{\numberline {5.4}GNU}{154}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Linux}{154}{section.5.5}%
+\contentsline {section}{\numberline {5.6}GNU de Kernel Linux}{154}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}O que é Kernel}{154}{subsection.5.6.1}%
+\contentsline {subsubsection}{O Boot}{154}{section*.3}%
+\contentsline {subsubsection}{O Boot}{156}{section*.4}%

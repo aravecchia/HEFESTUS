@@ -1,0 +1,180 @@
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\contentsline {chapter}{\numberline {1}\sffamily Sobre o Hefestus}{11}{chapter.1}%
+\contentsline {section}{\numberline {1.1}\sffamily LEIA-ME.tex}{13}{section.1.1}%
+\contentsline {section}{\numberline {1.2}\sffamily Sobre a vers\~{a}o 1.0}{42}{section.1.2}%
+\contentsline {section}{\numberline {1.3}\sffamily Contribui\c {c}\~{o}es}{43}{section.1.3}%
+\contentsline {section}{\numberline {1.4}\sffamily Licen\c {c}a}{46}{section.1.4}%
+\contentsline {chapter}{\numberline {2}\sffamily Querido(a) professor(a):}{47}{chapter.2}%
+\contentsline {section}{\numberline {2.1}\sffamily Uma pergunta simples.}{58}{section.2.1}%
+\contentsline {section}{\numberline {2.2}\sffamily O C\'{o}digo Viking}{87}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Preâmbulo}{88}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Capítulo}{94}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Pacote Listings para códigos-fonte}{129}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Exemplos de códigos-fonte em pacote Listings}{129}{subsection.2.2.4}%
+\contentsline {chapter}{\numberline {3} 1\textordmasculine Ano: o Be-A-B\'{a} da Inform\'{a}tica}{131}{chapter.3}%
+\contentsline {section}{\numberline {3.1}\sffamily 1\textordmasculine Ano - M\^{e}s 1 - Aula-1}{132}{section.3.1}%
+\contentsline {section}{\numberline {3.2}\sffamily 1\textordmasculine Ano - M\^{e}s 1 - Aula-2}{134}{section.3.2}%
+\contentsline {section}{\numberline {3.3}\sffamily 1\textordmasculine Ano - M\^{e}s 1 - Aula-3}{135}{section.3.3}%
+\contentsline {section}{\numberline {3.4}\sffamily 1\textordmasculine Ano - M\^{e}s 1 - Aula-4}{135}{section.3.4}%
+\contentsline {section}{\numberline {3.5}\sffamily 1\textordmasculine Ano - M\^{e}s 1 - Aula-5}{135}{section.3.5}%
+\contentsline {section}{\numberline {3.6}\sffamily 1\textordmasculine Ano - M\^{e}s 1 - Aula-6}{136}{section.3.6}%
+\contentsline {section}{\numberline {3.7}\sffamily 1\textordmasculine Ano - M\^{e}s 2 - Aula-3}{136}{section.3.7}%
+\contentsline {section}{\numberline {3.8}\sffamily 1\textordmasculine Ano - M\^{e}s 2 - Aula-4}{136}{section.3.8}%
+\contentsline {section}{\numberline {3.9}\sffamily 1\textordmasculine Ano - M\^{e}s 3 - Aula-1}{136}{section.3.9}%
+\contentsline {section}{\numberline {3.10}\sffamily 1\textordmasculine Ano - M\^{e}s 3 - Aula-2}{137}{section.3.10}%
+\contentsline {section}{\numberline {3.11}\sffamily 1\textordmasculine Ano - M\^{e}s 3 - Aula-3}{137}{section.3.11}%
+\contentsline {section}{\numberline {3.12}\sffamily 1\textordmasculine Ano - M\^{e}s 3 - Aula-4}{138}{section.3.12}%
+\contentsline {section}{\numberline {3.13}\sffamily 1\textordmasculine Ano - M\^{e}s 4 - Aula-1}{138}{section.3.13}%
+\contentsline {section}{\numberline {3.14}\sffamily 1\textordmasculine Ano - M\^{e}s 4 - Aula-2}{139}{section.3.14}%
+\contentsline {section}{\numberline {3.15}\sffamily 1\textordmasculine Ano - M\^{e}s 4 - Aula-3}{139}{section.3.15}%
+\contentsline {section}{\numberline {3.16}\sffamily 1\textordmasculine Ano - M\^{e}s 4 - Aula-4}{139}{section.3.16}%
+\contentsline {section}{\numberline {3.17}\sffamily 1\textordmasculine Ano - M\^{e}s 5 - Aula-1}{139}{section.3.17}%
+\contentsline {section}{\numberline {3.18}\sffamily 1\textordmasculine Ano - M\^{e}s 5 - Aula-2}{140}{section.3.18}%
+\contentsline {section}{\numberline {3.19}\sffamily 1\textordmasculine Ano - M\^{e}s 5 - Aula-3}{140}{section.3.19}%
+\contentsline {section}{\numberline {3.20}\sffamily 1\textordmasculine Ano - M\^{e}s 5 - Aula-4}{140}{section.3.20}%
+\contentsline {section}{\numberline {3.21}\sffamily 1\textordmasculine Ano - M\^{e}s 6 - Aula-1}{140}{section.3.21}%
+\contentsline {section}{\numberline {3.22}\sffamily 1\textordmasculine Ano - M\^{e}s 6 - Aula-2}{141}{section.3.22}%
+\contentsline {section}{\numberline {3.23}\sffamily 1\textordmasculine Ano - M\^{e}s 6 - Aula-3}{141}{section.3.23}%
+\contentsline {section}{\numberline {3.24}\sffamily 1\textordmasculine Ano - M\^{e}s 6 - Aula-4}{141}{section.3.24}%
+\contentsline {section}{\numberline {3.25}\sffamily 1\textordmasculine Ano - M\^{e}s 7 - Aula-1}{141}{section.3.25}%
+\contentsline {section}{\numberline {3.26}\sffamily 1\textordmasculine Ano - M\^{e}s 7 - Aula-2}{141}{section.3.26}%
+\contentsline {section}{\numberline {3.27}\sffamily 1\textordmasculine Ano - M\^{e}s 7 - Aula-3}{141}{section.3.27}%
+\contentsline {section}{\numberline {3.28}\sffamily 1\textordmasculine Ano - M\^{e}s 7 - Aula-4}{141}{section.3.28}%
+\contentsline {section}{\numberline {3.29}\sffamily 1\textordmasculine Ano - M\^{e}s 8 - Aula-1}{141}{section.3.29}%
+\contentsline {section}{\numberline {3.30}\sffamily 1\textordmasculine Ano - M\^{e}s 8 - Aula-2}{142}{section.3.30}%
+\contentsline {section}{\numberline {3.31}\sffamily 1\textordmasculine Ano - M\^{e}s 8 - Aula-3}{142}{section.3.31}%
+\contentsline {section}{\numberline {3.32}\sffamily 1\textordmasculine Ano - M\^{e}s 8 - Aula-4}{142}{section.3.32}%
+\contentsline {chapter}{\numberline {4} 2\textordmasculine Ano: o ABC}{143}{chapter.4}%
+\contentsline {section}{\numberline {4.1}\sffamily 2\textordmasculine Ano - M\^{e}s 1 - Aula-1}{146}{section.4.1}%
+\contentsline {section}{\numberline {4.2}\sffamily 2\textordmasculine Ano - M\^{e}s 1 - Aula-2}{146}{section.4.2}%
+\contentsline {section}{\numberline {4.3}\sffamily 2\textordmasculine Ano - M\^{e}s 1 - Aula-3}{146}{section.4.3}%
+\contentsline {section}{\numberline {4.4}\sffamily 2\textordmasculine Ano - M\^{e}s 1 - Aula-4}{147}{section.4.4}%
+\contentsline {section}{\numberline {4.5}\sffamily 2\textordmasculine Ano - M\^{e}s 2 - Aula-1}{147}{section.4.5}%
+\contentsline {section}{\numberline {4.6}\sffamily 2\textordmasculine Ano - M\^{e}s 2 - Aula-2}{147}{section.4.6}%
+\contentsline {section}{\numberline {4.7}\sffamily 2\textordmasculine Ano - M\^{e}s 2 - Aula-3}{147}{section.4.7}%
+\contentsline {section}{\numberline {4.8}\sffamily 2\textordmasculine Ano - M\^{e}s 2 - Aula-4}{147}{section.4.8}%
+\contentsline {section}{\numberline {4.9}\sffamily 2\textordmasculine Ano - M\^{e}s 3 - Aula-1}{147}{section.4.9}%
+\contentsline {section}{\numberline {4.10}\sffamily 2\textordmasculine Ano - M\^{e}s 3 - Aula-2}{147}{section.4.10}%
+\contentsline {section}{\numberline {4.11}\sffamily 2\textordmasculine Ano - M\^{e}s 3 - Aula-3}{148}{section.4.11}%
+\contentsline {section}{\numberline {4.12}\sffamily 2\textordmasculine Ano - M\^{e}s 3 - Aula-4}{148}{section.4.12}%
+\contentsline {section}{\numberline {4.13}\sffamily 2\textordmasculine Ano - M\^{e}s 4 - Aula-1}{148}{section.4.13}%
+\contentsline {section}{\numberline {4.14}\sffamily 2\textordmasculine Ano - M\^{e}s 4 - Aula-2}{148}{section.4.14}%
+\contentsline {section}{\numberline {4.15}\sffamily 2\textordmasculine Ano - M\^{e}s 4 - Aula-3}{148}{section.4.15}%
+\contentsline {section}{\numberline {4.16}\sffamily 2\textordmasculine Ano - M\^{e}s 4 - Aula-4}{149}{section.4.16}%
+\contentsline {section}{\numberline {4.17}\sffamily 2\textordmasculine Ano - M\^{e}s 5 - Aula-1}{149}{section.4.17}%
+\contentsline {section}{\numberline {4.18}\sffamily 2\textordmasculine Ano - M\^{e}s 5 - Aula-2}{150}{section.4.18}%
+\contentsline {section}{\numberline {4.19}\sffamily 2\textordmasculine Ano - M\^{e}s 5 - Aula-3}{150}{section.4.19}%
+\contentsline {section}{\numberline {4.20}\sffamily 2\textordmasculine Ano - M\^{e}s 5 - Aula-4}{150}{section.4.20}%
+\contentsline {section}{\numberline {4.21}\sffamily 2\textordmasculine Ano - M\^{e}s 6 - Aula-1}{150}{section.4.21}%
+\contentsline {section}{\numberline {4.22}\sffamily 2\textordmasculine Ano - M\^{e}s 6 - Aula-2}{151}{section.4.22}%
+\contentsline {section}{\numberline {4.23}\sffamily 2\textordmasculine Ano - M\^{e}s 6 - Aula-3}{151}{section.4.23}%
+\contentsline {section}{\numberline {4.24}\sffamily 2\textordmasculine Ano - M\^{e}s 6 - Aula-4}{153}{section.4.24}%
+\contentsline {section}{\numberline {4.25}\sffamily 2\textordmasculine Ano - M\^{e}s 7 - Aula-1}{153}{section.4.25}%
+\contentsline {section}{\numberline {4.26}\sffamily 2\textordmasculine Ano - M\^{e}s 7 - Aula-2}{154}{section.4.26}%
+\contentsline {section}{\numberline {4.27}\sffamily 2\textordmasculine Ano - M\^{e}s 7 - Aula-3}{154}{section.4.27}%
+\contentsline {section}{\numberline {4.28}\sffamily 2\textordmasculine Ano - M\^{e}s 7 - Aula-4}{155}{section.4.28}%
+\contentsline {section}{\numberline {4.29}\sffamily 2\textordmasculine Ano - M\^{e}s 8 - Aula-1}{155}{section.4.29}%
+\contentsline {section}{\numberline {4.30}\sffamily 2\textordmasculine Ano - M\^{e}s 8 - Aula-2}{155}{section.4.30}%
+\contentsline {section}{\numberline {4.31}\sffamily 2\textordmasculine Ano - M\^{e}s 8 - Aula-3}{155}{section.4.31}%
+\contentsline {section}{\numberline {4.32}\sffamily 2\textordmasculine Ano - M\^{e}s 8 - Aula-4}{155}{section.4.32}%
+\contentsline {chapter}{\numberline {5} 3\textordmasculine Ano: bits bem escovados.}{157}{chapter.5}%
+\contentsline {section}{\numberline {5.1}\sffamily 3\textordmasculine Ano - M\^{e}s 1 - Aula-1}{160}{section.5.1}%
+\contentsline {section}{\numberline {5.2}\sffamily 3\textordmasculine Ano - M\^{e}s 1 - Aula-2}{160}{section.5.2}%
+\contentsline {section}{\numberline {5.3}\sffamily 3\textordmasculine Ano - M\^{e}s 1 - Aula-3}{160}{section.5.3}%
+\contentsline {section}{\numberline {5.4}\sffamily 3\textordmasculine Ano - M\^{e}s 1 - Aula-4}{160}{section.5.4}%
+\contentsline {section}{\numberline {5.5}\sffamily 3\textordmasculine Ano - M\^{e}s 2 - Aula-1}{160}{section.5.5}%
+\contentsline {section}{\numberline {5.6}\sffamily 3\textordmasculine Ano - M\^{e}s 2 - Aula-2}{160}{section.5.6}%
+\contentsline {section}{\numberline {5.7}\sffamily 3\textordmasculine Ano - M\^{e}s 2 - Aula-3}{160}{section.5.7}%
+\contentsline {section}{\numberline {5.8}\sffamily 3\textordmasculine Ano - M\^{e}s 2 - Aula-4}{160}{section.5.8}%
+\contentsline {section}{\numberline {5.9}\sffamily 3\textordmasculine Ano - M\^{e}s 3 - Aula-1}{161}{section.5.9}%
+\contentsline {section}{\numberline {5.10}\sffamily 3\textordmasculine Ano - M\^{e}s 3 - Aula-2}{161}{section.5.10}%
+\contentsline {section}{\numberline {5.11}\sffamily 3\textordmasculine Ano - M\^{e}s 3 - Aula-3}{161}{section.5.11}%
+\contentsline {section}{\numberline {5.12}\sffamily 3\textordmasculine Ano - M\^{e}s 3 - Aula-4}{161}{section.5.12}%
+\contentsline {section}{\numberline {5.13}\sffamily 3\textordmasculine Ano - M\^{e}s 4 - Aula-1}{161}{section.5.13}%
+\contentsline {section}{\numberline {5.14}\sffamily 3\textordmasculine Ano - M\^{e}s 4 - Aula-2}{161}{section.5.14}%
+\contentsline {section}{\numberline {5.15}\sffamily 3\textordmasculine Ano - M\^{e}s 4 - Aula-3}{162}{section.5.15}%
+\contentsline {section}{\numberline {5.16}\sffamily 3\textordmasculine Ano - M\^{e}s 4 - Aula-4}{163}{section.5.16}%
+\contentsline {section}{\numberline {5.17}\sffamily 3\textordmasculine Ano - M\^{e}s 5 - Aula-1}{165}{section.5.17}%
+\contentsline {section}{\numberline {5.18}\sffamily 3\textordmasculine Ano - M\^{e}s 5 - Aula-2}{165}{section.5.18}%
+\contentsline {section}{\numberline {5.19}\sffamily 3\textordmasculine Ano - M\^{e}s 5 - Aula-3}{166}{section.5.19}%
+\contentsline {section}{\numberline {5.20}\sffamily 3\textordmasculine Ano - M\^{e}s 5 - Aula-4}{166}{section.5.20}%
+\contentsline {section}{\numberline {5.21}\sffamily 3\textordmasculine Ano - M\^{e}s 6 - Aula-1}{166}{section.5.21}%
+\contentsline {section}{\numberline {5.22}\sffamily 3\textordmasculine Ano - M\^{e}s 6 - Aula-2}{166}{section.5.22}%
+\contentsline {section}{\numberline {5.23}\sffamily 3\textordmasculine Ano - M\^{e}s 6 - Aula-3}{167}{section.5.23}%
+\contentsline {section}{\numberline {5.24}\sffamily 3\textordmasculine Ano - M\^{e}s 6 - Aula-4}{167}{section.5.24}%
+\contentsline {section}{\numberline {5.25}\sffamily 3\textordmasculine Ano - M\^{e}s 7 - Aula-1}{168}{section.5.25}%
+\contentsline {section}{\numberline {5.26}\sffamily 3\textordmasculine Ano - M\^{e}s 7 - Aula-2}{169}{section.5.26}%
+\contentsline {section}{\numberline {5.27}\sffamily 3\textordmasculine Ano - M\^{e}s 7 - Aula-3}{169}{section.5.27}%
+\contentsline {section}{\numberline {5.28}\sffamily 3\textordmasculine Ano - M\^{e}s 7 - Aula-4}{170}{section.5.28}%
+\contentsline {section}{\numberline {5.29}\sffamily 3\textordmasculine Ano - M\^{e}s 8 - Aula-1}{170}{section.5.29}%
+\contentsline {section}{\numberline {5.30}\sffamily 3\textordmasculine Ano - M\^{e}s 8 - Aula-2}{171}{section.5.30}%
+\contentsline {section}{\numberline {5.31}\sffamily 3\textordmasculine Ano - M\^{e}s 8 - Aula-3}{171}{section.5.31}%
+\contentsline {section}{\numberline {5.32}\sffamily 3\textordmasculine Ano - M\^{e}s 8 - Aula-4}{172}{section.5.32}%
+\contentsline {chapter}{\numberline {6} 4\textordmasculine Ano: Hack'n Roll}{173}{chapter.6}%
+\contentsline {section}{\numberline {6.1}\sffamily 4\textordmasculine Ano - M\^{e}s 1 - Aula-1}{177}{section.6.1}%
+\contentsline {section}{\numberline {6.2}\sffamily 4\textordmasculine Ano - M\^{e}s 1 - Aula-2}{177}{section.6.2}%
+\contentsline {section}{\numberline {6.3}\sffamily 4\textordmasculine Ano - M\^{e}s 1 - Aula-3}{179}{section.6.3}%
+\contentsline {section}{\numberline {6.4}\sffamily 4\textordmasculine Ano - M\^{e}s 1 - Aula-4}{179}{section.6.4}%
+\contentsline {section}{\numberline {6.5}\sffamily 4\textordmasculine Ano - M\^{e}s 2 - Aula-1}{180}{section.6.5}%
+\contentsline {section}{\numberline {6.6}\sffamily 4\textordmasculine Ano - M\^{e}s 2 - Aula-2}{180}{section.6.6}%
+\contentsline {section}{\numberline {6.7}\sffamily 4\textordmasculine Ano - M\^{e}s 2 - Aula-3}{181}{section.6.7}%
+\contentsline {section}{\numberline {6.8}\sffamily 4\textordmasculine Ano - M\^{e}s 2 - Aula-4}{181}{section.6.8}%
+\contentsline {section}{\numberline {6.9}\sffamily 4\textordmasculine Ano - M\^{e}s 3 - Aula-1}{181}{section.6.9}%
+\contentsline {section}{\numberline {6.10}\sffamily 4\textordmasculine Ano - M\^{e}s 3 - Aula-2}{182}{section.6.10}%
+\contentsline {section}{\numberline {6.11}\sffamily 4\textordmasculine Ano - M\^{e}s 3 - Aula-3}{182}{section.6.11}%
+\contentsline {section}{\numberline {6.12}\sffamily 4\textordmasculine Ano - M\^{e}s 3 - Aula-4}{182}{section.6.12}%
+\contentsline {section}{\numberline {6.13}\sffamily 4\textordmasculine Ano - M\^{e}s 4 - Aula-1}{183}{section.6.13}%
+\contentsline {section}{\numberline {6.14}\sffamily 4\textordmasculine Ano - M\^{e}s 4 - Aula-2}{186}{section.6.14}%
+\contentsline {section}{\numberline {6.15}\sffamily 4\textordmasculine Ano - M\^{e}s 4 - Aula-3}{186}{section.6.15}%
+\contentsline {section}{\numberline {6.16}\sffamily 4\textordmasculine Ano - M\^{e}s 4 - Aula-4}{186}{section.6.16}%
+\contentsline {section}{\numberline {6.17}\sffamily 4\textordmasculine Ano - M\^{e}s 5 - Aula-1}{187}{section.6.17}%
+\contentsline {section}{\numberline {6.18}\sffamily 4\textordmasculine Ano - M\^{e}s 5 - Aula-2}{187}{section.6.18}%
+\contentsline {section}{\numberline {6.19}\sffamily 4\textordmasculine Ano - M\^{e}s 5 - Aula-3}{188}{section.6.19}%
+\contentsline {section}{\numberline {6.20}\sffamily 4\textordmasculine Ano - M\^{e}s 5 - Aula-4}{188}{section.6.20}%
+\contentsline {section}{\numberline {6.21}\sffamily 4\textordmasculine Ano - M\^{e}s 6 - Aula-1}{188}{section.6.21}%
+\contentsline {section}{\numberline {6.22}\sffamily 4\textordmasculine Ano - M\^{e}s 6 - Aula-2}{189}{section.6.22}%
+\contentsline {section}{\numberline {6.23}\sffamily 4\textordmasculine Ano - M\^{e}s 6 - Aula-3}{189}{section.6.23}%
+\contentsline {section}{\numberline {6.24}\sffamily 4\textordmasculine Ano - M\^{e}s 6 - Aula-4}{190}{section.6.24}%
+\contentsline {section}{\numberline {6.25}\sffamily 4\textordmasculine Ano - M\^{e}s 7 - Aula-1}{190}{section.6.25}%
+\contentsline {section}{\numberline {6.26}\sffamily 4\textordmasculine Ano - M\^{e}s 7 - Aula-2}{191}{section.6.26}%
+\contentsline {section}{\numberline {6.27}\sffamily 4\textordmasculine Ano - M\^{e}s 7 - Aula-3}{191}{section.6.27}%
+\contentsline {section}{\numberline {6.28}\sffamily 4\textordmasculine Ano - M\^{e}s 7 - Aula-4}{192}{section.6.28}%
+\contentsline {section}{\numberline {6.29}\sffamily 4\textordmasculine Ano - M\^{e}s 8 - Aula-1}{193}{section.6.29}%
+\contentsline {section}{\numberline {6.30}\sffamily 4\textordmasculine Ano - M\^{e}s 8 - Aula-2}{193}{section.6.30}%
+\contentsline {section}{\numberline {6.31}\sffamily 4\textordmasculine Ano - M\^{e}s 8 - Aula-3}{194}{section.6.31}%
+\contentsline {section}{\numberline {6.32}\sffamily 4\textordmasculine Ano - M\^{e}s 8 - Aula-4}{194}{section.6.32}%
+\contentsline {chapter}{\numberline {7} 5\textordmasculine Ano: Science \&\& bits!}{195}{chapter.7}%
+\contentsline {section}{\numberline {7.1}\sffamily 5\textordmasculine Ano - M\^{e}s 1 - Aula-1}{198}{section.7.1}%
+\contentsline {section}{\numberline {7.2}\sffamily 5\textordmasculine Ano - M\^{e}s 1 - Aula-2}{222}{section.7.2}%
+\contentsline {section}{\numberline {7.3}\sffamily 5\textordmasculine Ano - M\^{e}s 1 - Aula-3}{227}{section.7.3}%
+\contentsline {section}{\numberline {7.4}\sffamily 5\textordmasculine Ano - M\^{e}s 1 - Aula-4}{236}{section.7.4}%
+\contentsline {section}{\numberline {7.5}\sffamily 5\textordmasculine Ano - M\^{e}s 2 - Aula-1}{237}{section.7.5}%
+\contentsline {section}{\numberline {7.6}\sffamily 5\textordmasculine Ano - M\^{e}s 2 - Aula-2}{238}{section.7.6}%
+\contentsline {section}{\numberline {7.7}\sffamily 5\textordmasculine Ano - M\^{e}s 2 - Aula-3}{239}{section.7.7}%
+\contentsline {section}{\numberline {7.8}\sffamily 5\textordmasculine Ano - M\^{e}s 2 - Aula-4}{239}{section.7.8}%
+\contentsline {section}{\numberline {7.9}\sffamily 5\textordmasculine Ano - M\^{e}s 3 - Aula-1}{240}{section.7.9}%
+\contentsline {section}{\numberline {7.10}\sffamily 5\textordmasculine Ano - M\^{e}s 3 - Aula-2}{240}{section.7.10}%
+\contentsline {section}{\numberline {7.11}\sffamily 5\textordmasculine Ano - M\^{e}s 3 - Aula-3}{247}{section.7.11}%
+\contentsline {section}{\numberline {7.12}\sffamily 5\textordmasculine Ano - M\^{e}s 3 - Aula-4}{247}{section.7.12}%
+\contentsline {section}{\numberline {7.13}\sffamily 5\textordmasculine Ano - M\^{e}s 4 - Aula-1}{247}{section.7.13}%
+\contentsline {section}{\numberline {7.14}\sffamily 5\textordmasculine Ano - M\^{e}s 4 - Aula-2}{248}{section.7.14}%
+\contentsline {section}{\numberline {7.15}\sffamily 5\textordmasculine Ano - M\^{e}s 4 - Aula-3}{248}{section.7.15}%
+\contentsline {section}{\numberline {7.16}\sffamily 5\textordmasculine Ano - M\^{e}s 4 - Aula-4}{249}{section.7.16}%
+\contentsline {section}{\numberline {7.17}\sffamily 5\textordmasculine Ano - M\^{e}s 5 - Aula-1}{251}{section.7.17}%
+\contentsline {section}{\numberline {7.18}\sffamily 5\textordmasculine Ano - M\^{e}s 5 - Aula-2}{251}{section.7.18}%
+\contentsline {section}{\numberline {7.19}\sffamily 5\textordmasculine Ano - M\^{e}s 5 - Aula-3}{254}{section.7.19}%
+\contentsline {section}{\numberline {7.20}\sffamily 5\textordmasculine Ano - M\^{e}s 5 - Aula-4}{254}{section.7.20}%
+\contentsline {section}{\numberline {7.21}\sffamily 5\textordmasculine Ano - M\^{e}s 6 - Aula-1}{255}{section.7.21}%
+\contentsline {section}{\numberline {7.22}\sffamily 5\textordmasculine Ano - M\^{e}s 6 - Aula-2}{256}{section.7.22}%
+\contentsline {section}{\numberline {7.23}\sffamily 5\textordmasculine Ano - M\^{e}s 6 - Aula-3}{256}{section.7.23}%
+\contentsline {section}{\numberline {7.24}\sffamily 5\textordmasculine Ano - M\^{e}s 6 - Aula-4}{257}{section.7.24}%
+\contentsline {section}{\numberline {7.25}\sffamily 5\textordmasculine Ano - M\^{e}s 7 - Aula-1}{258}{section.7.25}%
+\contentsline {section}{\numberline {7.26}\sffamily 5\textordmasculine Ano - M\^{e}s 7 - Aula-2}{258}{section.7.26}%
+\contentsline {section}{\numberline {7.27}\sffamily 5\textordmasculine Ano - M\^{e}s 7 - Aula-3}{259}{section.7.27}%
+\contentsline {section}{\numberline {7.28}\sffamily 5\textordmasculine Ano - M\^{e}s 7 - Aula-4}{260}{section.7.28}%
+\contentsline {section}{\numberline {7.29}\sffamily 5\textordmasculine Ano - M\^{e}s 8 - Aula-1}{262}{section.7.29}%
+\contentsline {section}{\numberline {7.30}\sffamily 5\textordmasculine Ano - M\^{e}s 8 - Aula-2}{262}{section.7.30}%
+\contentsline {section}{\numberline {7.31}\sffamily 5\textordmasculine Ano - M\^{e}s 8 - Aula-3}{263}{section.7.31}%
+\contentsline {section}{\numberline {7.32}\sffamily 5\textordmasculine Ano - M\^{e}s 8 - Aula-4}{264}{section.7.32}%
+\contentsline {chapter}{\numberline {8} Querida professor(a) desesperado(a)...}{265}{chapter.8}%
