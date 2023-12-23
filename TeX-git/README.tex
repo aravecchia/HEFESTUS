@@ -3,7 +3,9 @@
 
 		\begin{multicols}{2}
 	
-	\normalsize	De forma geral, o sistema é muito simples: um arquivo HTML é gerado em \LaTeX, e disponibilizado  numa página do servidor Apache local, e entao configuramos todos os computadores dos alunos, para que abram esta página automaticamente, através do navegador, logo na inicialização do seu Desktop Linux favorito, que também é inicializado automaticamente.
+	\normalsize	De forma geral, o sistema é muito simples: uma página HTML, gerada em \LaTeX, e disponibilizado  numa página do servidor Apache local.
+	
+	Então configuramos todos os computadores dos alunos, para que abram esta página automaticamente, através do navegador, logo na inicialização do seu Desktop Linux favorito.
 	
 	É uma tarefa que pode ser realizada por qualquer técnico ou profissional de TI, que tenha acesso à senha root do sistema, alguns conhecimentos em redes, HTML, Apache, e saiba usar minimamente o terminal, habilidades mínimas para qualquer instrutor de Informática.
 	
@@ -17,13 +19,13 @@
 	
 	Justamente por este motivo, este documento é liberado sob licença Creative Commons, em formato de código aberto: para que as aulas sejam editáveis por qualquer escola, professor ou instrutor que queira fazê-lo.
 	
-	Sinta-se a vontade para copiar, alterar e distribuir cópias, observando a licença Creative Commons Não Comercial.
+	Sinta-se a vontade para copiar, alterar e distribuir cópias, observando a licença \textbf{Creative Commons Não Comercial}.
 	
 	Um ano letivo tem aproximadamente 8 meses, com 4 aulas cada um. Ou seja, 32 aulas anuais, para cada ano de ensino. Se temos uma escola de 5 anos, resulta num total de 160 aulas, independente do número de alunos.
 	
 	Então são 160 arquivos em formato texto editaveis, um para cada aula.
 	
-	No \LaTeX, estes arquivos podem ser tanto um texto, como podem carregar imagens, ou ate uma biblioteca inteira de imagens, assim como links para diversas atividades, como aplicativos, programas, páginas web ou arquivos salvos na máquina local, ou mesmo no servidor externo.
+	No \LaTeX, estes arquivos podem ser tanto um texto, como podem carregar imagens, ou ate uma biblioteca inteira de imagens, assim como links para diversas atividades, como aplicativos, programas, páginas web ou arquivos salvos na máquina local, ou mesmo num servidor externo.
 	
 	Utilizando \LaTeX, criamos um arquivo HTML, que pode ser lido em qualquer celular que esteja conectado à rede local da escola, propiciando ainda mobilidade ao professor, ja que também pode leva-lo para casa, no formato PDF.
 	
@@ -35,8 +37,86 @@
 	%	apt install poppler-utils
 	%\end{lstlisting}
 	
-	Então, basta converter o arquivo:
+Se você é iniciante em Linux, a primeira coisa que precisa aprender a fazer é \textbf{usar o terminal}.
+
+Não se assuste, com o tempo e um pouco de prática, você pega o jeito.
+
+Vamos lá: mantenha pressionada a tecla Alt no teclado e aperte F2. Vai aparecer uma janela parecida com essa: 
+
+\begin{center}
+	\includegraphics[width=\linewidth]{./IMG-GIT/Screenshot_20231222_142820.png}
+\end{center}
+
+Ali, digite \textbf{xterm} (tudo em letras minúsculas) e aperte \textbf{Enter}.
+
+Vai aparecer uma janela, mais ou menos assim:
+
+
+\begin{center}
+	\includegraphics[width=\linewidth]{./IMG-GIT/Screenshot_20231222_143805.png}
+\end{center}
+
+	Bem vindo ao maravilhoso mundo de \textbf{/bin/bash}, que é como nós chamamos o terminal, o \textbf{ambiente hacker} propriamente dito.
 	
+	Sabe \textbf{aquela tela preta que você vê nos filmes}? É isso!
+	
+	Prá nós entendermos, de um jeito simples, veja que está escrito \textbf{alexandre@darkstar:$\sim\$$}.
+	
+	Se você tem um \textbf{e-mail}, vai ver que ele sempre é um \textbf{nome de usuário + um servidor}, ou seja, é você, em algum um computador, em algum lugar do mundo.
+	
+	O meu, por exemplo:
+	
+	\begin{center}
+		{\large aravecchia@gmail.com}
+	\end{center}
+
+\textbf{aravecchia} é meu \textbf{nome de usuário} no computador (servidor) \textbf{gmail.com}.
+
+No meu computador, meu nome de usuário é \textbf{alexandre}, e o nome do computador é \textbf{darkstar}, ou seja, \textbf{alexandre@darkstar}.
+
+No computador da escola, meu nome de usuário é \textbf{professor}, e o nome do computador central é \textbf{servidor}, então meu usuário naquele computador é \textbf{professor@servidor}.
+
+O importante é que temos sempre \textbf{usuario@computador}, é simples.
+
+Agora vamos nos tornar um usuário especial: \textbf{root}, também chamado de superusuário, ou simplesmente \textbf{DEUS} (porque ele pode fazer tudo o que quiser)\footnote{\begin{multicols}{2}{Acostume-se às piadas sarcásticas ca computação, professor(a). Elas podem ser chatas, e algumas vezes muito inconvenientes, mas também são muito úteis didaticamente, para que os alunos lembrem-se de conceitos básicos importantes da computação. Responta rápido: Qual a diferença entre \textit{software} e \textit{hardware}?}
+		content...
+\end{multicols}}.
+
+Para isso, vamos digitar desta forma no terminal:
+
+	\lstinputlisting[style=C, label=lst:CCode]
+{./SCRIPTS-GIT/passwd.sh}
+
+Perceba que, quando você digita a senha, no Linux, nenhum caractere aparece no terminal. Não se preocupe, isto é pra garantir a segurança da tua senha.
+
+Prefira uma senha fácil de lembrar, combinando letras e números, e não perca \textbf{nunca}! Ou você estará em sérios apuros!
+
+Agora digite:
+
+	\lstinputlisting[style=C, label=lst:CCode]
+{./SCRIPTS-GIT/su.sh}
+
+Pronto!
+
+Agora você é \textbf{root}, o superusuário, senhor do seu próprio destino, guardião e comandante do terminal.
+
+Você não é mais um simples usuário!
+
+\begin{center}
+	\includegraphics[width=.4\linewidth]{./IMG-GIT/Suporte_643.jpg}
+\end{center}	
+
+	Agora olhe novamente para a última linha do seu terminal, e você verá algo parecido com isto:
+	
+	\begin{center}
+		\includegraphics[width=.6\linewidth]{./IMG-GIT/Screenshot_20231222_155332.png}
+	\end{center}	
+
+Você é o usuário \textbf{root}, supremo comandante do computador \textbf{darkstar}.
+
+Agora vamos instalar algumas coisinhas, e brincar com as permissões de acesso ao sistema.
+
+
 	\begin{lstlisting}
 		pdf2htmlEX PROJETO.pdf index.html
 		
@@ -47,10 +127,6 @@
 	
 	
 	O HTML resultante vai para a página Apache do servidor local, e todos os outros computadores são direcionados a ela, na inicialização.
-	
-	Para fazê-lo, primeiro precisamos configurar todos os computadores, comecemos pelo terminal:
-	
-	\textit{Alt+F2 == xterm}
 	
 	\begin{lstlisting}
 sudo passwd root\\
@@ -105,25 +181,15 @@ cp -v index.html /var/www/html/index.html
 	A próxima janela é o terminal, não precisa ter medo dele! Na verdade, com o tempo, você vai passar a gostar muito dele!
 	
 	Digite no terminal, nesta ordem:
-	
-	\begin{lstlisting}
-		sudo passwd root
-		 Aperte Enter
-	 Digite a nova senha
-		 Aperte Enter (de novo)
-		 Digite a nova senha (de novo)
-		 Aperte Enter (demais uma vez)
-	\end{lstlisting}
-	
+
+
+
 	Repare que, ao digitar a senha, nenhum caractere é escrito no terminal. Isto serve para proteger a nova senha de olhares maliciosos.
 	
 	Pronto. Agora você é ROOT, tem poderes supremos sobre a máquina.
 	
 	Por enquanto, vamos nos divertir com os novos super-poderes. Digite:
 	
-	\begin{lstlisting}
-		su -
-	\end{lstlisting}
 	
 	Aperte Enter, digite sua senha de \textit{root} e confirme, apertando ENTER.
 	
@@ -135,23 +201,24 @@ Lembre-se, daqui por diante: \textbf{com grandes poderes, grandes responsabilida
 	
 	O próximo passo é instalar todos os aplicativos didáticos que os alunos utilizarão, bem como todas as ferramentas administrativas e protocolos de rede. Este script deve ajudá-lo:
 	
-	\begin{lstlisting}
-		apt update
-		apt install openssh-server openssh-client apache tomcat9 arduino frozen-bubble debian-junior gcompriz mc synaptic libreoffice -y
-	\end{lstlisting}
+	\lstinputlisting[style=C, label=lst:CCode]
+{./SCRIPTS-GIT/install.sh}
 	
 	Reinicie o servidor, afim de que todos os novos serviços e protocolos instalados sejam carregados corretamente.
 	
 	Repita esta operação em \textbf{todos os computadores, de todos os alunos}.
 	
-	Segue o link para o github do projeto (\textbf{revisar}):
+\textbf{\Large Segue o link para o Github do projeto:}
+
+(Baixe o arquivo ZIP e descompacte na sua pasta Home)
 \end{multicols}
 
 \begin{center}
-	\Huge	\href{https://github.com/aravecchia/EFESTUS}{https://github.com/aravecchia/EFESTUS}
+	\Huge	\href{https://github.com/aravecchia/HEFESTUS}{https://github.com/aravecchia/HEFESTUS}
 \end{center}
 
 \vfill\null
+
 \pagebreak
 
 \begin{multicols}{2}

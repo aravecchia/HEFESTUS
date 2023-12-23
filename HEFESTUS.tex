@@ -1,0 +1,147 @@
+%        ,
+%    ,   |\ ,__
+%    |\   \/   `.
+%    \ `-.:.     `\
+%     `-.__ `\=====|
+%        /=`'/   ^_\
+%      .'   /\   .=)
+%   .-'  .'|  '-(/_|
+% .'  __(  \  .'`
+%/_.'`  `.  |`
+%    jgs  \ |
+%          |/
+% PREAMBULO VIKING
+
+\documentclass[10pt]{book}
+
+%%%%% Configuracao da pagina %%%%%
+\usepackage[landscape, top=5mm, left=10mm, right=10mm, bottom=0mm, paperwidth=118mm, paperheight=210mm]{geometry}
+
+
+%%%%% Cabecalho e rodape %%%%%
+\usepackage{fancyhdr} % Pacote para personalizar cabecalho e rodape
+\pagestyle{fancy}
+\fancyhead[L]{Sistema \textbf{Hefestus} - ABC da Inform\'{a}tica}
+\fancyhead[C]{\includegraphics[height=5mm]{./IMG-GIT/PALESTRANTES/flisol-logo.png}}
+\fancyfoot[L]{\large\LaTeX}
+\fancyfoot[C]{\includegraphics[height=4mm]{./IMG-GIT/Cc_by-nc_icon.svg.png}}
+\fancyhead[R]{Smith \&\& Aravecchia  \&\& all}
+\fancyfoot[R]{\thepage}
+\renewcommand{\headrulewidth}{1pt}
+\renewcommand{\footrulewidth}{1pt}
+
+%%%%% Configuracoes adicionais de layout %%%%%
+\setlength{\headsep}{5mm} % Distancia do cabecalho ao texto
+\setlength{\headheight}{7.5mm} % Altura do cabecalho
+\setlength{\footskip}{-5mm} % Distancia do rodape ao texto
+\setlength{\textheight}{92.5mm} % Altura do texto
+\setlength{\topmargin}{-25mm} % Margem superior
+\setlength{\columnsep}{10mm} % Distancia entre colunas em multicolunas
+\setlength{\parskip}{1mm plus 5mm} % Define o espacamento entre paragrafos
+\linespread{1.25} % Define a distancia entre as linhas como 1.25 vezes o padrao
+
+
+
+%%%%% Pacotes de idioma %%%%%
+\usepackage[brazil]{babel} % Suporte ao portugues do Brasil
+\usepackage[utf8]{inputenc} % Codificacao do arquivo fonte
+
+%%%%% Bibliografia %%%%%
+\usepackage[num]{abntex2cite} % Citacoes conforme norma ABNT
+\usepackage{babelbib} % Traducao de termos bibliograficos
+
+%%%%% Fonte sans-serif %%%%%
+\usepackage[default,scale=0.8]{opensans} % Fonte sans-serif
+
+%%%%% Cores e hyperlinks %%%%%
+\usepackage{multicol} % Layout de multiplas colunas
+\usepackage[svgnames]{xcolor} % Cores
+\usepackage{graphicx} % Inclusao de graficos
+\usepackage{tikz}  % Inclusao de graficos
+%\usepackage{titling} % Inclusao de graficos na capa
+\usepackage{hyperref} % Links
+\definecolor{linkblue}{rgb}{0,0,0.7}
+\definecolor{darkgray}{rgb}{0.25, 0.25, 0.25}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=linkblue,
+	filecolor=linkblue,
+	urlcolor=linkblue,
+	citecolor=linkblue,
+	pdfborder={0 0 0},
+pdftitle={Hefestus - Sistema de Gerenciamento em Laborat\'{o}rios de Inform\'{a}tica}
+}
+
+%%%%% Pacotes para manipulacao de arquivos e midia %%%%%
+\usepackage{csvsimple} % Manipulacao de arquivos CSV
+\usepackage{expl3} % Programacao LaTeX3
+\usepackage{pgffor} % Lacos de repeticao
+\usepackage{array} % Manipulacao de arrays
+\usepackage{wasysym} % Simbolos
+\usepackage{wallpaper} % Imagem de fundo
+\usepackage{media9} % Inclusao de midia
+\usepackage{listings} % Inclusao de codigo fonte
+\usepackage{soul} % Destaque de texto
+%\usepackage{amsmath} % Simbolos matematicos
+%\usepackage{amssymb} % Simbolos matematicos
+\usepackage{fontawesome} % Fontes e icones
+\usepackage{float} % Para uso de minipages
+\usepackage{pdfpages} % Inclusao de paginas PDF
+\usepackage{lipsum} % Texto de preenchimento
+
+
+%%%%% Configuracao de listas %%%%%
+\renewcommand{\labelitemi}{$\bullet$}
+\renewcommand{\labelitemii}{$\checked$}
+\renewcommand{\labelitemiii}{$\diamond$}
+\renewcommand{\labelitemiv}{$\ast$}
+
+
+
+%CHAMADA DE CONFIGURACOES PARA CODIGO-FONTE EM ARDUINO
+
+\input{./TeX-git/ARDUINO-CODE.tex}
+%CHAMADA DE CONFIGURACOES PARA CODIGO-FONTE EM PYTHON
+\input{./TeX-git/PYTHON-CODE.tex}
+%SHELL
+\input{./TeX-git/SHELL-CODE.tex}
+%\LaTeX
+\input{./TeX-git/LATEX-CODE.tex}
+
+%%%%% Titulo e autor %%%%%
+\title{
+	\vspace*{-25mm}
+	\resizebox{80mm}{12mm}{\textcolor{black}{\textsc{\textbf{Hefestus}}}}\\
+	\vspace*{2mm}
+	\resizebox{70mm}{6mm}{\textcolor{black}{\textbf{Sistema de Gerenciamento}}}\\
+	\vspace*{2mm}
+	\resizebox{80mm}{5mm}{\textcolor{black}{para Laborat\'{o}rios de Inform\'{a}tica}}
+
+
+\vspace*{-39mm}\hspace*{2mm}
+\resizebox{80mm}{12mm}{\textcolor{white}{\textsc{\textbf{Hefestus}}}}\\
+\vspace*{2mm}
+\resizebox{70mm}{6mm}{\textcolor{white}{\textbf{Sistema de Gerenciamento}}}\\
+\vspace*{2mm}
+\resizebox{80mm}{5mm}{\textcolor{white}{para Laborat\'{o}rios de Inform\'{a}tica}}
+
+}
+%\vspace*{-15mm}
+\author{\resizebox{60mm}{4mm}{\textcolor{white}{\textbf{Smith \&\& Aravecchia \&\& all}}}}
+\date{\small\textcolor{white}\today}
+
+\ThisCenterWallPaper{1}{./IMG-GIT/IA/efestus-2a.png}
+
+\begin{document}
+	
+	\maketitle	
+	\begin{multicols}{2}
+		\normalsize\tableofcontents
+	\end{multicols}
+	
+	{\normalsize Fonte: \href{URL_DA_FONTE}{Nome da Fonte}}
+	
+	\input{./CAPITULOS-HEFESTUS.tex}
+	
+	\bibliography{suas-referencias.bib}
+\end{document}
