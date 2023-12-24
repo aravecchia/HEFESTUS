@@ -14,20 +14,3 @@ git commit -m "Mensagem do commit"
 
 # Faça o push para enviar as alterações confirmadas para o repositório remoto (GitHub)
 git push origin main
-
-# Fazer um commit com as alterações
-#git commit -m "Atualização"
-
-# Fazer um commit com as alterações
-#git commit -a
-
-# Atualize o repositório local
-#git pull origin main
-
-# Push para o repositório remoto
-#git push origin main
-
-# Se necessário, execute outras etapas de atualização aqui
-#cd 
-
-# Fim do script
