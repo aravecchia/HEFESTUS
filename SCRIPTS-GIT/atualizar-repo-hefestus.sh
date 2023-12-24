@@ -1,24 +1,19 @@
 #!/bin/bash
 
-
-# Vá para o diretório do seu repositório
+# Vá para o diretório do seu repositório local
 cd /home/alexandre/HEFESTUS/SCRIPTS-GIT
 
 # Certifique-se de estar no ramo correto
 git checkout main
 
-# Faça um pull para obter as alterações mais recentes do repositório remoto
-git pull origin main
+# Adicione todas as alterações (modificações e novos arquivos) ao índice
+git add .
 
-# Faça um push para enviar as alterações locais para o repositório remoto (GitHub)
+# Faça um commit com as alterações adicionadas ao índice
+git commit -m "Mensagem do commit"
+
+# Faça o push para enviar as alterações confirmadas para o repositório remoto (GitHub)
 git push origin main
-
-
-
-
-
-
-
 
 # Fazer um commit com as alterações
 #git commit -m "Atualização"
@@ -33,6 +28,6 @@ git push origin main
 #git push origin main
 
 # Se necessário, execute outras etapas de atualização aqui
-cd 
+#cd 
 
 # Fim do script
