@@ -6,6 +6,9 @@ cd /home/alexandre/HEFESTUS/SCRIPTS-GIT
 # Fazer um commit com as alterações
 git commit -m "Atualização"
 
+# Fazer um commit com as alterações
+git commit -a
+
 # Atualize o repositório local
 git pull origin main
 
